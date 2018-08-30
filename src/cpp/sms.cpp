@@ -1,3 +1,3 @@
 first sms
-venkat second sms
+v
 Second basava
